@@ -1,7 +1,3 @@
----
-categories: Git DevTools
----
-
 # Git
 --TODO
 

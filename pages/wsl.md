@@ -1,7 +1,3 @@
----
-categories: WSL DevTools Linux
----
-
 # Windows Subsystem for Linux (WSL)
 --TODO
 
