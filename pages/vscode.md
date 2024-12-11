@@ -1,5 +1,4 @@
 ---
-layout: posts
 categories: VSCode DevTools Software
 ---
 
