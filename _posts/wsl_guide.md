@@ -1,3 +1,7 @@
+layout: post
+title: "Windows Subsystem for Linux (WSL) Guide"
+categories: WSL DevTools Linux
+
 # Windows Subsystem for Linux (WSL)
 --TODO
 

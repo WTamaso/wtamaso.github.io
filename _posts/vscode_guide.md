@@ -1,3 +1,7 @@
+layout: post
+title: "VS Code Guide"
+categories: VSCode DevTools Software
+
 # VS Code
 --TODO Review and improve
 

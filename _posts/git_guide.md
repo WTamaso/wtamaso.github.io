@@ -1,3 +1,7 @@
+layout: post
+title: "Git Guide"
+categories: Git DevTools
+
 # Git
 --TODO
 
