@@ -1,3 +1,24 @@
 theme: jekyll-theme-minimal
 title: WTamaso's Notes and Guides
 description: My personal compilation of useful notes and guides.
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+plugins: [
+  jekyll-avatar,
+  jemoji,
+  jekyll-titles-from-headings,
+  jekyll-sitemap,
+  jekyll-feed
+  ]
+
+kramdown:
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table

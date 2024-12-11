@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "VS Code Guide"
-date: 2024-12-11 16:58:00 -0000
+layout: posts
 categories: VSCode DevTools Software
 ---
 

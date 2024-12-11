@@ -1,3 +1,3 @@
-# WTamaso's Notes and Guides
+# Figuring the things out
 
-My personal compilation of useful notes and guides.
+I hope this will work soon.
