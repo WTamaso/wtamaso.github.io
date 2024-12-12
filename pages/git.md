@@ -21,13 +21,13 @@ Git is a version control system that helps you manage different versions of code
 
 1. Install Git: 
     After updating the package index, install Git by running:
-    ``` sh
+    ```sh
     sudo apt install git
     ```
 
 2. Verify the installation: 
     Once the installation is complete, you can verify that Git was installed correctly by checking the version:
-    ``` sh
+    ```sh
     git --version
     ```
     This should output the installed version of Git, confirming that it is installed.
@@ -40,13 +40,13 @@ When using Git, it is essential to configure your username and email address. Th
 
 To set your global Git username and email address, use the following commands:
 
-``` cmd
+```sh
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
 ```
 These commands will save the values in the global configuration file (`~/.gitconfig`). You can verify the settings by running:
 
-``` cmd
+```sh
 git config --list
 ```
 This should display your username and email address:
@@ -60,14 +60,14 @@ user.email=youremail@yourdomain.com
 
 If you need to use a different username or email address for a specific repository, navigate to the repository directory and run the following commands without the `--global` option:
 
-``` cmd
+```sh
 cd /path/to/your/repository
 git config user.name "Your Name"
 git config user.email "youremail@yourdomain.com"
 ```
 To verify the repository-specific settings, use:
 
-``` cmd
+```sh
 git config --list
 ```
 This will show the username and email address configured for that particular repository.

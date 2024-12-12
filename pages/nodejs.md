@@ -13,22 +13,22 @@ Node.js is a free, open-source, cross-platform JavaScript runtime environment th
 ### Linux (Ubuntu):
 1. Update the Package Index: 
    Open your terminal and run:
-    ``` sh
+    ```sh
     sudo apt update
     ```
 
 2. Install Node.js and npm:
-    ``` sh
+    ```sh
     sudo apt install nodejs npm
     ```
 
 3. Verify the Installation:
     Check the Node.js version by running:
-    ``` sh
+    ```sh
     node -v
     ```
 
 4. Check the npm version by running:
-    ``` sh
+    ```sh
     npm -v
     ```
