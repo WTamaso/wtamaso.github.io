@@ -1,14 +1,36 @@
 # Git
---TODO
+Git is a version control system that helps you manage different versions of code within a repository.
 
 ## Setup
---TODO
 
 ### Windows
---TODO
+
+1. Download Git:
+    Go to the Git for Windows [website](https://git-scm.com/downloads/win).
+    Click on the "Download" button to get the latest version of Git for Windows.
+    
+2. Run the Installer:
+    Once the download is complete, locate the downloaded file (`Git-<version>-64-bit.exe`) in your Downloads folder.
+    Double-click the installer to run it.
+
+3. Verify the Installation:
+    Open the Command Prompt or Git Bash.
+    Type `git --version` and press Enter. You should see the installed version of Git displayed.
 
 ### Linux
---TODO
+
+1. Install Git: 
+    After updating the package index, install Git by running:
+    ``` sh
+    sudo apt install git
+    ```
+
+2. Verify the installation: 
+    Once the installation is complete, you can verify that Git was installed correctly by checking the version:
+    ``` sh
+    git --version
+    ```
+    This should output the installed version of Git, confirming that it is installed.
 
 ## Setting Git Username and Email
 

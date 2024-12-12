@@ -1,7 +1,10 @@
 # VS Code
---TODO Review and improve
+> Visual Studio Code - Code Editing. Redefined
+VS Code is a free and powerful code editor for web and cloud development. It supports AI-powered suggestions, extensions, themes, source control, and more.
 
 ## Setup
+
+Download and install from Microsoft Store or [download here](https://code.visualstudio.com/Download).
 
 ## Configuration
 
