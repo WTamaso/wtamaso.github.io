@@ -1,6 +1,5 @@
 # VS Code
-> Visual Studio Code - Code Editing. Redefined
-VS Code is a free and powerful code editor for web and cloud development. It supports AI-powered suggestions, extensions, themes, source control, and more.
+**Visual Studio Code (VS Code)** is a free and powerful code editor for web and cloud development. It supports AI-powered suggestions, extensions, themes, source control, and more.
 
 ## Setup
 

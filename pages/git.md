@@ -1,31 +1,31 @@
 # Git
-Git is a version control system that helps you manage different versions of code within a repository.
+**Git** is a version control system that helps you manage different versions of code within a repository.
 
 ## Setup
 
 ### Windows
 
-1. Download Git:
+1. **Download Git:**  
     Go to the Git for Windows [website](https://git-scm.com/downloads/win).
     Click on the "Download" button to get the latest version of Git for Windows.
     
-2. Run the Installer:
+2. **Run the Installer:**  
     Once the download is complete, locate the downloaded file (`Git-<version>-64-bit.exe`) in your Downloads folder.
     Double-click the installer to run it.
 
-3. Verify the Installation:
+3. **Verify the Installation:**  
     Open the Command Prompt or Git Bash.
     Type `git --version` and press Enter. You should see the installed version of Git displayed.
 
 ### Linux
 
-1. Install Git: 
+1. **Install Git:**   
     After updating the package index, install Git by running:
     ```sh
     sudo apt install git
     ```
 
-2. Verify the installation: 
+2. **Verify the installation:**   
     Once the installation is complete, you can verify that Git was installed correctly by checking the version:
     ```sh
     git --version
